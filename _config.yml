@@ -4,23 +4,23 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: Anya Lin
-  email: lay.1010@hotmail.com
-  link: http://painterlin.com
+  name: Hu Zhanchi 
+  email: zhanchihu@gmail.com 
+  link: http://armstronghu.github.io
   weibo: http://weibo.com/orangeissweet
-  github: http://github.com/lay1010
+  github: http://github.com/armstronghu
   music: http://site.douban.com/linanya
   linkedin: https://www.linkedin.com/pub/anya-lin/81/91/232
 
 # 站点信息
-title: 林安亚的博客
+title: 胡展翅的博客 
 description: My personal blog
-url: http://painterlin.com
+url: http://armstronghu.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/deer3.png
-favicon: /public/img/deer3.png
+gavatar: /public/img/avatar.jpg
+favicon: /public/img/avatar.jpg
 
 # google analytics 设置
 ga:
@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: painterlin
+  shortname: armstronghu 
 
 # 主题设置，自动激活某个标签
 active: 读书
