@@ -17,7 +17,10 @@ create-react-app hu-admin
 ```
 这个时候项目已经启动了,如果仔细观察工程目录以及依赖，并没有发现babel以及build目录或者dist目录。往下看！
 # build production
-安装的node是`v8.2.1`已经开始支持ES6了,也就是说不需要babel编译器了。
+用 `create-react-app`命令创建的starter，里面会本地安装一个module：`react-script` 依赖了 babel等其他工具。这个说明可以在工程目录的README中看到。
+```
+npm run build
+```
 
 # server
 >
