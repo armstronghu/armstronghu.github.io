@@ -29,5 +29,12 @@ You may serve it with a static server:
   `npm install -g serve`
   `serve -s build`
 
-
 另外最近刚用vscode对terminal支持的也挺好，因为安装了git mingw，vscode竟然也很好的探测到了.:w
+
+# 安装antd
+```
+npm install antd --save
+``` 
+
+最后感叹下create-react-app这个工具优秀的地方，看到.gitignore都给我写好了，自动node_modules过滤掉真是良心！
+
